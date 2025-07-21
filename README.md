@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed Ashraf and I'm a Full Stack Web Developer, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Mohamed Ashraf and I'm a QA Tester, from Egypt</h2>
 
 ###
 
