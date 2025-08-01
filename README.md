@@ -41,8 +41,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?mhmd-ashrf-saad=your-mhmd-ashrf-saad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-mhmd-ashrf-saad&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
@@ -69,5 +69,5 @@
 <div align="center">
 <i>"Building quality software, one test at a time"</i> 🚀
 <br/>
-<img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?mhmd-ashrf-saad=your-mhmd-ashrf-saad&color=blueviolet&style=flat" alt="Profile views"/>
 </div>
