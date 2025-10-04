@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! I'm Mohamed Ashraf</h2>
-<h3 align="center">🔍 QA Engineer | Bug Hunter | From Egypt 🇪🇬</h3>
+<h3 align="center">🔍 QA Tester |  From Egypt 🇪🇬</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&width=400&lines=Manual+%26+Automation+Testing;Quality+Assurance+Engineer;Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
