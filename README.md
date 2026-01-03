@@ -68,6 +68,10 @@ const mohamedAshraf = {
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
 </p>
@@ -97,11 +101,11 @@ const mohamedAshraf = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhmd-ashrf-saad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-ashrf-saad&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhmd-ashrf-saad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=mhmd-ashrf-saad&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&sideLabels=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-ashrf-saad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhmd-ashrf-saad&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-ashrf-saad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhmd-ashrf-saad&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -144,7 +148,11 @@ const mohamedAshraf = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/mhmd-ashrf-saad/mhmd-ashrf-saad/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhmd-ashrf-saad/mhmd-ashrf-saad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhmd-ashrf-saad/mhmd-ashrf-saad/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mhmd-ashrf-saad/mhmd-ashrf-saad/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
